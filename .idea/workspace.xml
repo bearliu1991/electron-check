@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/renderer/components/login/index/index.vue" line="25" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3b4d2e3-1b85-47d8-90c3-532884b9f358" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="G:\project\exportToHTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/login/index/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dev-runner.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.electron-vue/dev-runner.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3634">
+              <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="launch.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="electron-builder.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/electron-builder.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2231">
+              <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app.asar</find>
+      <find>packagePath</find>
+      <find>console.error</find>
+      <find>app</find>
+      <find>path</find>
+      <find>appIcon</find>
+      <find>createWindow</find>
+      <find>window-all-closed</find>
+      <find>activate</find>
+      <find>__dirname, '/static</find>
+      <find>app1</find>
+      <find>hotUpdate</find>
+      <find>cloase</find>
+      <find>error</find>
+      <find>request</find>
+      <find>Vue</find>
+      <find>excuteHot</find>
+      <find>createDefaultWindow</find>
+      <find>checkVersion</find>
+      <find>sendStatusToWindow</find>
+      <find>check_pr</find>
+      <find>getFile</find>
+      <find>checkWin</find>
+      <find>ipcMain</find>
+      <find>child</find>
+      <find>123</find>
+      <find>axios</find>
+      <find>9080</find>
+      <find>over</find>
+      <find>install</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>reject</replace>
+      <replace>resolve</replace>
+      <replace>checkWin</replace>
+      <replace>app</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\project\node_modules\electron</dir>
+      <dir>G:\project\node_modules\</dir>
+      <dir>platform</dir>
+      <dir>G:\project\node_modules\electron-builder</dir>
+      <dir>G:\project\node_modules\electron-builder-lib</dir>
+      <dir>G:\project\node_modules</dir>
+      <dir>G:\project</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/renderer/components/right-side/right_part.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" />
+        <option value="$PROJECT_DIR$/install.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/renderer/App.vue" />
+        <option value="$USER_HOME$/Documents/WXWork/1688850342313252/Cache/File/2018-06/index.js" />
+        <option value="G:/js_server.js" />
+        <option value="G:/server.js" />
+        <option value="G:/new-pro/package.json" />
+        <option value="$PROJECT_DIR$/dev-app-update.yml" />
+        <option value="$PROJECT_DIR$/build/latest.yml" />
+        <option value="G:/json/updateCon.js" />
+        <option value="G:/json/updateCont.txt" />
+        <option value="G:/json/updateCont.json" />
+        <option value="G:/json/interface.js" />
+        <option value="G:/server/public/project_hot/build/win-unpacked/resources/asar.txt" />
+        <option value="G:/server/index.js" />
+        <option value="$PROJECT_DIR$/dist/electron/main.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/build.js" />
+        <option value="$PROJECT_DIR$/build/win-unpacked/resources/electron.asar" />
+        <option value="$PROJECT_DIR$/node_modules/electron-builder-lib/out/packager.js" />
+        <option value="$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asarUtil.js" />
+        <option value="$PROJECT_DIR$/node_modules/electron-builder-lib/out/platformPackager.js" />
+        <option value="$USER_HOME$/Desktop/123/hotLoad.js" />
+        <option value="$PROJECT_DIR$/src/main/middleware.js" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/public.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.web.config.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.main.config.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" />
+        <option value="$USER_HOME$/Desktop/server/package.json" />
+        <option value="$PROJECT_DIR$/electron-builder.yml" />
+        <option value="$PROJECT_DIR$/src/index.ejs" />
+        <option value="$PROJECT_DIR$/.vscode/launch.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/RightSide/rightPart.vue" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.electron-vue/dev-runner.js" />
+        <option value="$PROJECT_DIR$/src/renderer/main.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/login/index/index.vue" />
+        <option value="$PROJECT_DIR$/src/main/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="check" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+              <item name=".electron-vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/work" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="G:\project\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/main" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b4d2e3-1b85-47d8-90c3-532884b9f358" name="Default" comment="" />
+      <created>1528162973489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528162973489</updated>
+      <workItem from="1528162974851" duration="35015000" />
+      <workItem from="1528272197507" duration="8863000" />
+      <workItem from="1528333476029" duration="63001000" />
+      <workItem from="1528700260513" duration="14548000" />
+      <workItem from="1528764936920" duration="30102000" />
+      <workItem from="1528851215747" duration="4002000" />
+      <workItem from="1529036883194" duration="2862000" />
+      <workItem from="1529042177822" duration="25118000" />
+      <workItem from="1529391931524" duration="41485000" />
+      <workItem from="1529631640470" duration="8805000" />
+      <workItem from="1529653707800" duration="8857000" />
+      <workItem from="1529888716482" duration="1245000" />
+      <workItem from="1529915683381" duration="1479000" />
+      <workItem from="1530180319186" duration="40000" />
+      <workItem from="1530242817339" duration="5000" />
+      <workItem from="1530242925963" duration="302000" />
+      <workItem from="1530243581458" duration="12510000" />
+      <workItem from="1530263518909" duration="2053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="260292000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.13962065" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5005208" side_tool="true" weight="0.021645023" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49947917" weight="0.39915523" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/index.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/packager/dirPackager.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/options/winOptions.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/packager.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder/out/cli/start.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder/out/cli/cli.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder/out/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder/out/builder.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asar.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asarFileChecker.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asarFileChecker.d.ts" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="8684" column="14" selection-start-line="8684" selection-start-column="11" selection-end-line="8684" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asarUtil.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder/out/builder.js" />
+    <entry file="file://$PROJECT_DIR$/build/win-unpacked/resources/electron.asar" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/platformPackager.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asarUtil.js" />
+    <entry file="file://$USER_HOME$/Desktop/electron-builder.yml" />
+    <entry file="file://G:/zserver/index.js" />
+    <entry file="file://$USER_HOME$/Desktop/123/hotLoad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/dev-client.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/middleware.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asar.js" />
+    <entry file="file://$USER_HOME$/Desktop/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="166" column="47" selection-start-line="166" selection-start-column="47" selection-end-line="166" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/1070507176/FileRecv/MobileFile/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="171" column="29" lean-forward="true" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2645">
+          <caret line="115" column="4" selection-start-line="115" selection-start-column="7" selection-end-line="121" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.web.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2553">
+          <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.main.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="7" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/server/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/server/index.js" />
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/electron-builder.yaml" />
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/update.json" />
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/check_process Setup 1.0.0.exe">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="368">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/latest.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/electron-builder.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/zserver/hotLoad.js" />
+    <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/public.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/RightSide/rightPart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/dev-runner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3634">
+          <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/index/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
